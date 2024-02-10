@@ -1,1 +1,1 @@
-![chelik](./chelik.webp)
+![chelik](/chelik.webp)
