@@ -1,0 +1,1 @@
+![Alt text]([http://full/path/to/img.jpg](https://preview.redd.it/9wt9aiy9awk71.png?width=300&format=png&auto=webp&s=9d08bbf2ff0e896d4a626952c426754fc8b39d7b)https://preview.redd.it/9wt9aiy9awk71.png?width=300&format=png&auto=webp&s=9d08bbf2ff0e896d4a626952c426754fc8b39d7b "Optional title")
